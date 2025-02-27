@@ -1,27 +1,44 @@
-*{
-   margin: 0;
-   padding: 0; 
+* {
+  margin: 0;
+  padding: 0;
 }
-.mainArea{
-    padding: 25px;
-    background: teal;
-    height: 800px;
+.mainArea {
+  padding: 25px;
+  background: blueviolet;
+  height: 600px;
 }
-button{
-    background: tomato;
-    color: white;
-    padding: 10px 30px;
-    border: none;
-    border-radius: 10px;
-    font-size: 20px;
-    text-transform: uppercase;
-    font-weight: 700;
-    cursor: pointer;
+button {
+  background: tomato;
+  color: white;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+  margin-bottom: 20px;
 }
-.box{
-    height: 300px;
-    width: 300px;
-    background: tomato;
-    border-radius: 10px;
-    margin-top: 30px;
+.box {
+  height: 300px;
+  width: 300px;
+  background: tomato;
+  border-radius: 10px;
+  margin-top: 30px;
 }
+.box2 {
+  height: 300px;
+  width: 300px;
+  background: rgb(152, 147, 5);
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.item h3{
+    font-size: 60px;
+    font-weight: 600;
+}
+.item h1{
+    font-size: 30px;
+    font-weight: 500;
+}
+
