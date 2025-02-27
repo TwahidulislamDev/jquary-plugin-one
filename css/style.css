@@ -1,0 +1,27 @@
+*{
+   margin: 0;
+   padding: 0; 
+}
+.mainArea{
+    padding: 25px;
+    background: teal;
+    height: 800px;
+}
+button{
+    background: tomato;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    cursor: pointer;
+}
+.box{
+    height: 300px;
+    width: 300px;
+    background: tomato;
+    border-radius: 10px;
+    margin-top: 30px;
+}
